@@ -7,4 +7,4 @@ Steps to follow:
 4. Run the cmd file
 5.
 6.
-7. # download-multiple-branch-files-from-git
+7. # download-multiple-branch-files-from-git at a time

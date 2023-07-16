@@ -4,4 +4,7 @@ Steps to follow:
 1. Download the file and open it in notepad or any editor 
 2. Change <repository name> to the name of the github file
 3. Save it and exit
-4. Run the cmd file# download-multiple-branch-files-from-git
+4. Run the cmd file
+5.
+6.
+7. # download-multiple-branch-files-from-git

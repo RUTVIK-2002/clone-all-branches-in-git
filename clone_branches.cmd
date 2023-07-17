@@ -5,7 +5,7 @@ set /p github_link=Enter GitHub repository link:
 
 REM Clone the repository
 git clone %github_link%
-REM Make User to Enter name of the Folder
+REM Make User to Enter name of the Folder Change the name to the file you want to take data in github
 cd <respository_name>
 
 REM Fetch all branches
